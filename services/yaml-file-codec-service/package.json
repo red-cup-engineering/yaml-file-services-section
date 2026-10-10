@@ -15,7 +15,7 @@
     "test": "node --test test/*.test.mjs"
   },
   "dependencies": {
-    "@red-cup-engineering/json-file-codec-service": "0.1.2"
+    "@red-cup-engineering/json-file-codec-service": "workspace:*"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
