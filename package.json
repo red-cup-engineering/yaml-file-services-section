@@ -3,5 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "Proof-path section for YAML flatfile serialization."
+  "description": "Proof-path section for YAML flatfile serialization.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/yaml-file-services-section.git"
+  }
 }
