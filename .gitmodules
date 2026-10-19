@@ -1,0 +1,4 @@
+[submodule "yaml-file-codec-service"]
+	path = services/yaml-file-codec-service
+	url = https://github.com/red-cup-engineering/yaml-file-codec-service.git
+	branch = main
